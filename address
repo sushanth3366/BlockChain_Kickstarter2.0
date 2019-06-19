@@ -1,0 +1,17 @@
+0xaF7279A3450810ce5E62e9AC520e9539698e4276
+
+
+
+/*renderCampaigns(){
+  const items =this.props.campaigns.map(address=>{
+    return{
+      header:address,
+      description:<a>view campaign</a>,
+      fluid:true
+    };
+  });
+  return <Card.Group items={items} />;
+}*/
+
+
+0x55bF250e193A9E824ADC7B67F6EC328c11bC47C4
